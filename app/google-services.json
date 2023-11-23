@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623517634483",
+    "project_id": "all-bangla-newspaper-36dc8",
+    "storage_bucket": "all-bangla-newspaper-36dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623517634483:android:3c5701e4353959857ac5c6",
+        "android_client_info": {
+          "package_name": "com.ratanbd.allbanglanewspaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-Tfy7TSUFjwjj3L5o1f5tIq_rISxe5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
